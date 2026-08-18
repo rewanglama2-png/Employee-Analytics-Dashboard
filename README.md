@@ -51,7 +51,7 @@ These filters allow users to explore the employee data dynamically.
 
 ## 🖼️ Dashboard Preview
 
-![Employee Analytics Dashboard](Screenshot%202026-08-17%20210346.png)
+![Employee Analytics Dashboard](Dashboard.png)
 
 ## 📁 Project Files
 
