@@ -56,7 +56,7 @@ These filters allow users to explore the employee data dynamically.
 ## 📁 Project Files
 
 - `Employee_Analytics_Dashboard.xlsx` — Excel workbook containing the analysis and interactive dashboard.
-- `Screenshot 2026-08-17 210346.png` — Dashboard preview.
+- `Dashboard.png` — Dashboard preview.
 
 ## 💡 Project Objective
 
